@@ -1,4 +1,4 @@
-package com.mkwinformatica.dsdeliver.security;
+package com.mkwinformatica.dsdeliver.config;
 
 import java.util.Arrays;
 
